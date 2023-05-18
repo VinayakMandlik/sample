@@ -1,3 +1,4 @@
+#abc
 num=int(input('ENTER NUM'))
 my_list=[]
 for i in range(1,num+1)
