@@ -1,0 +1,123 @@
+
+Linux Commands :
+
+git clone (Path)
+git status
+git add . (All files will be added to current folder)
+git add
+git push (To push the changes)
+git commit -m "new changes by R"
+git config --global user.email "vinayakmandlik2325@gmail.com"
+git branch
+git fork
+
+cloud Computing :  
+
+cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
+--------------------------------------------------------
+
+Networking :
+
+Computer networking refers to interconnected computing devices that can exchange data and share resources with each other. 
+These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies.
+
+-------------------------------------------
+
+cloud providers :
+
+The big three—Google Cloud, Microsoft Azure, and Amazon Web Services (AWS)—are considered the established leaders.
+However, there are a host of other smaller or niche players that offer cloud services as well, including IBM, Alibaba, Oracle, Red Hat, DigitalOcean, and Rackspace.
+
+-------------------------------------------------
+
+SaaS (Software as a Service) :
+
+Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet.
+Common examples are email, calendaring, and office tools (such as Microsoft Office 365). 
+SaaS provides a complete software solution that you purchase on a pay-as-you-go basis from a cloud service provider.
+
+Examples : Google Workspace, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting
+
+----------------------------------------------------
+
+
+IaaS (Infrastructure as a Service) :
+
+IaaS (infrastructure as a service) is a cloud service model that offers on-demand infrastructure resources, such as compute, storage, networking, and virtualization, to businesses and individuals via the cloud.
+
+Examples : DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco Metapod, Microsoft Azure, Google Compute Engine (GCE)
+
+--------------------------------------------------
+PaaS (Platform as a Service) :
+
+PaaS, or Platform-as-a-Service, is a cloud computing model that provides customers a complete cloud platform—hardware, software, and infrastructure—for developing, running, and managing applications without the cost, complexity, and inflexibility that often comes with building and maintaining that platform on-premises.
+
+Examples : AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift
+
+-------------------------------------------------------
+
+
+Server :
+
+A server is a computer program or device that provides a service to another computer program and its user, also known as the client.
+In a data center, the physical computer that a server program runs on is also frequently referred to as a server.
+
+-------------------------------------------
+
+
+Middleware :
+
+Middleware is software that lies between an operating system and the applications running on it.
+Essentially functioning as hidden translation layer, middleware enables communication and data management for distributed applications.
+
+--------------------------------------------------------
+Virtualization :
+
+Virtualization is a process that allows a computer to share its hardware resources with multiple digitally separated environments. 
+Each virtualized environment runs within its allocated resources, such as memory, processing power, and storage.
+
+--------------------------------------------
+
+CUI :
+
+CUI stands for Character User Interface. 
+CUI is a way to interact with computer programs by issuing them commands as one or more lines of text. 
+In CUI based systems, the user enters a command which a computer program can understand and then computer program processes the result and return the response.
+
+------------------------------------------------
+
+GUI :
+
+Graphical User Interface (GUI)
+It is a friendly visual environment that allows the user to perform any action without having to have programming knowledge.
+An example of the GUI are the Windows, MacOs or Android environments, thanks to which commands can be sent through gestures or mouse movements, without the need to enter any code.
+
+-------------------------------------------------------------
+
+Hypervisor :
+
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). 
+A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.
+
+-------------------------------------------
+
+Cluster :
+
+Cluster computing aggregates and coordinates a collection of virtual machines (VMs) to work together to perform a task.
+Clusters typically have a single head node (sometimes called a controller node), a number of compute nodes, and possibly some specialty nodes.
+
+-------------------------------------------------------
+
+CI/CD :
+
+CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development.
+The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment.
+
+-------------------------------------------
+
+
+Token
+
+
+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
